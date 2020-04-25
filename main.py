@@ -3,7 +3,7 @@ print ("Hello world")
 
 def main(msg):
 //print a message
-//This is second try
+//This is third try
     print (msg)
     main ("Hello people")
 

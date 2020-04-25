@@ -2,7 +2,7 @@
 print ("Hello world")
 
 def main(msg):
-//No longer need comments here
+//No longer needs comments here
     print (msg)
     main ("Hello people")
    
